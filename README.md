@@ -37,3 +37,6 @@
 - 💬 Ask me about <strong>Anything! ;D let's talks</strong>
 <br>
 - ⚡ Fun fact: <strong>"I'm a duck :P"<strong>
+<br>
+<br>
+  <img src="https://i.ibb.co/9wJDhfg/MM16z.png">
