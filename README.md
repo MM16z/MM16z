@@ -1,4 +1,5 @@
-## @MM16z
+## <img src="https://media.giphy.com/media/3oEhn6DCXP8xI3aVqM/giphy.gif" width="50" height="50"/> @MM16z <img src="https://media.giphy.com/media/3oEhn6DCXP8xI3aVqM/giphy.gif" width="50" height="50"/>
+<br>
 <a href="https://www.facebook.com/itmemor.awesome/">
   <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -9,6 +10,8 @@
 <br>
 
 ## <img  src="https://cdn-icons-png.flaticon.com/512/867/867927.png"  width="40px"></img>  * Items i used
+<br>
+<img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet">
 <br>
 <li> HP : <img  src="https://cdn-icons-png.flaticon.com/512/186/186320.png"  width="50px"  height="50px"  style="position: relative;top: 18px;">
 <img  src="https://cdn-icons-png.flaticon.com/512/186/186319.png"  width="50px"  height="50px"  style="position: relative;top: 18px;">
@@ -23,3 +26,14 @@
 <br>
 <br>
 <li> INT : <img  src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"  width="45px"  height="45px"  style="position: relative;top: 18px;left: 5px;"></li>
+<br>
+<br>
+- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
+<br>
+- 🌱 I’m currently learning <strong>Fullstack Developer</strong>
+<br>
+- 🔍 Interest in <strong>FullStack Dev</strong>,<strong>UX/UI Designer</strong>,<strong>Graphic Designer</strong>,<strong>Game Development</strong>,<strong>Music Production</strong>,<strong>Artist</strong>
+<br>
+- 💬 Ask me about <strong>Anything! ;D let's talks</strong>
+<br>
+- ⚡ Fun fact: <strong>"I'm a duck :P"<strong>
