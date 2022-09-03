@@ -1,6 +1,6 @@
 ## @MM16z
 
-## <img  src="https://cdn-icons-png.flaticon.com/512/867/867927.png"  width="40px"></img>  * Items i used : 
+## <img  src="https://cdn-icons-png.flaticon.com/512/867/867927.png"  width="40px"></img>  * Items i used
 <br>
 <li> HP : <img  src="https://cdn-icons-png.flaticon.com/512/186/186320.png"  width="50px"  height="50px"  style="position: relative;top: 18px;">
 <img  src="https://cdn-icons-png.flaticon.com/512/186/186319.png"  width="50px"  height="50px"  style="position: relative;top: 18px;">
