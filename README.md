@@ -27,6 +27,8 @@
 <br>
 <li> INT : <img  src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"  width="45px"  height="45px"  style="position: relative;top: 18px;left: 5px;"></li>
 <br>
+<strong>GAME,MUSIC,ART,NATURE,CAMPING</strong>
+<br>
 <br>
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
 <br>
