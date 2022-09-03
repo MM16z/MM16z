@@ -1,4 +1,12 @@
 ## @MM16z
+<a href="https://www.facebook.com/itmemor.awesome/">
+  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.google.com/">
+  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
+<br>
+<br>
 
 ## <img  src="https://cdn-icons-png.flaticon.com/512/867/867927.png"  width="40px"></img>  * Items i used
 <br>
