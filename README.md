@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/3oEhn6DCXP8xI3aVqM/giphy.gif" width="50" height="50"/> @MM16z <img src="https://media.giphy.com/media/3oEhn6DCXP8xI3aVqM/giphy.gif" width="50" height="50"/>
 <br>
-<a href="https://www.facebook.com/itmemor.awesome/">
+<a href="https://www.facebook.com/mm16z/">
   <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.google.com/">
