@@ -42,4 +42,3 @@
 - ⚡ Fun fact: <strong>"I'm a duck :P"<strong>
 <br>
 <br>
-  <img src="https://i.ibb.co/9wJDhfg/MM16z.png">
