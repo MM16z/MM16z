@@ -15,6 +15,7 @@
 <br>
 <li> HP : <img  src="https://cdn-icons-png.flaticon.com/512/186/186320.png"  width="50px"  height="50px"  style="position: relative;top: 18px;">
 <img  src="https://cdn-icons-png.flaticon.com/512/186/186319.png"  width="50px"  height="50px"  style="position: relative;top: 18px;">
+  <img  src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"  width="50px"  height="50px"  style="position: relative;top: 18px;">
 <br>
 <br>
 <li> MANA : <img  src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png"  width="50px"  height="50px"  style="position: relative;top: 18px;left: 5px;">
