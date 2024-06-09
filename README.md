@@ -9,6 +9,9 @@
 <br>
 <br>
 
+```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://static.scientificamerican.com/sciam/cache/file/2AE14CDD-1265-470C-9B15F49024186C10_source.jpg?w=900');]{x0000}$}
+```
+
 ## <img  src="https://cdn-icons-png.flaticon.com/512/867/867927.png"  width="40px"></img>  * Items i used
 <br>
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet">
