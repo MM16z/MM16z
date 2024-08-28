@@ -1,10 +1,5 @@
 ## <img src="https://media.giphy.com/media/3oEhn6DCXP8xI3aVqM/giphy.gif" width="50" height="50"/> @MM16z <img src="https://media.giphy.com/media/3oEhn6DCXP8xI3aVqM/giphy.gif" width="50" height="50"/>
 <br>
-
-## <img  src="https://cdn-icons-png.flaticon.com/512/867/867927.png"  width="40px"></img>  * Items i used
-<br>
-<img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet">
-<br>
 <li> HP : <img  src="https://cdn-icons-png.flaticon.com/512/186/186320.png"  width="50px"  height="50px"  style="position: relative;top: 18px;">
 <img  src="https://cdn-icons-png.flaticon.com/512/186/186319.png"  width="50px"  height="50px"  style="position: relative;top: 18px;">
   <img  src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"  width="50px"  height="50px"  style="position: relative;top: 18px;">
