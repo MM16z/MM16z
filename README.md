@@ -1,13 +1,5 @@
 ## <img src="https://media.giphy.com/media/3oEhn6DCXP8xI3aVqM/giphy.gif" width="50" height="50"/> @MM16z <img src="https://media.giphy.com/media/3oEhn6DCXP8xI3aVqM/giphy.gif" width="50" height="50"/>
 <br>
-<a href="https://www.facebook.com/mm16z/">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.google.com/">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
-<br>
-<br>
 
 ## <img  src="https://cdn-icons-png.flaticon.com/512/867/867927.png"  width="40px"></img>  * Items i used
 <br>
@@ -25,18 +17,4 @@
 <br>
 <br>
 <li> INT : <img  src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"  width="45px"  height="45px"  style="position: relative;top: 18px;left: 5px;"></li>
-<br>
-<strong>GAME,MUSIC,ART,NATURE,CAMPING</strong>
-<br>
-<br>
-- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
-<br>
-- 🌱 I’m currently learning <strong>Fullstack Developer</strong>
-<br>
-- 🔍 Interest in <strong>FullStack Dev</strong>,<strong>UX/UI Designer</strong>,<strong>Graphic Designer</strong>,<strong>Game Development</strong>,<strong>Music Production</strong>,<strong>Artist</strong>
-<br>
-- 💬 Ask me about <strong>Anything! ;D let's talks</strong>
-<br>
-- ⚡ Fun fact: <strong>"I'm a duck :P"<strong>
-<br>
 <br>
